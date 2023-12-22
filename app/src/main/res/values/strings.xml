@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_splash_fragment">Hello Splash fragment</string>
+    <string name="hello_fragment">Hello fragment</string>
+    <string name="fragment_number_1">1</string>
+    <string name="next_fragment_button">Next fragment</string>
+    <string name="fragment_number_2">2</string>
+    <string name="go_to_finish_button">Go to finish</string>
+    <string name="fragment_a">A</string>
+    <string name="go_to_menu_button">Go to menu</string>
+    <string name="put_the_app_in_the_background">
+        Put the app in the background. \n
+    </string>
+    <string name="click_the_home_button">Click the Home button</string>
+</resources>
